@@ -10,7 +10,6 @@ So my son wants a real-life working Apoc mask for when we go to their concert in
   * [Electronics](#electronics)
     * [Wiring diagram](#wiring-diagram)
   * [Programming the microcontroller](#programming-the-microcontroller)
-* [License](#license)
 
 
 
@@ -94,7 +93,7 @@ Here are the parts:
 
 #### Wiring diagram
 
-Used [fritzing] to create the wire diagram(https://fritzing.org/):
+Used [fritzing](https://fritzing.org/) to create the wire diagram:
 
 [<img src="./Screenshot 2025-01-14 at 20.01.52.png" width="500" />](Screenshot 2025-01-14 at 20.01.52.png)
 
