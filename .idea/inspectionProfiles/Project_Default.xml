@@ -1,0 +1,28 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="14">
+            <item index="0" class="java.lang.String" itemvalue="pbr" />
+            <item index="1" class="java.lang.String" itemvalue="google-cloud-datastore" />
+            <item index="2" class="java.lang.String" itemvalue="werkzeug" />
+            <item index="3" class="java.lang.String" itemvalue="google-cloud-secret-manager" />
+            <item index="4" class="java.lang.String" itemvalue="cffi" />
+            <item index="5" class="java.lang.String" itemvalue="httplib2" />
+            <item index="6" class="java.lang.String" itemvalue="google-cloud-storage" />
+            <item index="7" class="java.lang.String" itemvalue="enplore-data-normalization" />
+            <item index="8" class="java.lang.String" itemvalue="enploredatahandler" />
+            <item index="9" class="java.lang.String" itemvalue="certifi" />
+            <item index="10" class="java.lang.String" itemvalue="google-cloud-pubsub" />
+            <item index="11" class="java.lang.String" itemvalue="google-api-python-client" />
+            <item index="12" class="java.lang.String" itemvalue="flask" />
+            <item index="13" class="java.lang.String" itemvalue="google-auth" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
