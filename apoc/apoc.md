@@ -38,6 +38,7 @@ Breaking this down it would take us down quite the rabbit hole, ending into some
 Here is my version:
 
 [<img src="./IMG_9319.jpeg" width="500" />](IMG_9319.jpeg)
+
 [<img src="./apoc-led.webp" width="500" />](apoc-led.webp)
 
 
