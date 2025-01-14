@@ -6,6 +6,10 @@ Here is how he looks:
 
 ![APOC-hero-banner-241212-1448.jpeg](APOC-hero-banner-241212-1448.jpeg)
 
+And the end result:
+
+![apoc-led.webp](apoc-led.webp)
+
 ## The project
 
 So my son wants a real-life working Apoc mask for when we go to their concert in February 2025. It needs to be stable and carry-able.
