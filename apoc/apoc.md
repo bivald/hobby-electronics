@@ -79,6 +79,8 @@ The mask is curved, but the picture doesn't really show it. I inserted elastic b
 
 Take about 8-10 hours to 3D print.
 
+[Blender 3D file download](ledmask6.blend)
+
 #### Soldering the LED:s onto the mask
 Actually soldering the LED:s were a bit of a nightmare. It's been a long time since I soldered, and this is pretty small. I was starting out with mini-LED strips but was simply too small, so I went with regular LED:s.
 
