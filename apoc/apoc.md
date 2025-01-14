@@ -1,14 +1,28 @@
 # APOC
+My son loves [Smash Into Pieces](https://www.smashintopieces.com/) which is a rock band. He's especially intriqued by the drummer APOC. APOC has a pretty cool mask which lights up in different colors. There is also a [childrens book](https://www.bokus.com/bok/9789189823396/apoc-och-jakten-pa-sjalvfortroendet/) about him.
+So my son wants a real-life working Apoc mask for when we go to their concert in February 2025. It needs to be stable and carry-able.
+
+### Table of Contents
+* [The project](#the-project)
+* [End Result](#end-result)
+* [The parts of the projects](#the-parts-of-the-project)
+  * [3D printing the mask](#3d-printing-the-mask)
+  * [Electronics](#electronics)
+    * [Wiring diagram](#wiring-diagram)
+  * [Programming the microcontroller](#programming-the-microcontroller)
+* [License](#license)
+
+
 
 My son loves [Smash Into Pieces](https://www.smashintopieces.com/) which is a rock band. He's especially intriqued by the drummer APOC. APOC has a pretty cool mask which lights up in different colors. There is also a [childrens book](https://www.bokus.com/bok/9789189823396/apoc-och-jakten-pa-sjalvfortroendet/) about him. 
 
 Here is how he looks:
 
-![APOC-hero-banner-241212-1448.jpeg](APOC-hero-banner-241212-1448.jpeg)
+[<img src="./APOC-hero-banner-241212-1448.jpeg" width="300" />](APOC-hero-banner-241212-1448.jpeg)
 
 And the end result:
 
-![apoc-led.webp](apoc-led.webp)
+[<img src="./apoc-led.webp" width="500" />](apoc-led.webp)
 
 ## The project
 
@@ -16,16 +30,16 @@ So my son wants a real-life working Apoc mask for when we go to their concert in
 
 Breaking this down it would take us down quite the rabbit hole, ending into something like this:
 
-![IMG_9086.jpeg](IMG_9086.jpeg)
-![IMG_9087.jpeg](IMG_9087.jpeg)
-![IMG_9239.jpeg](IMG_9239.jpeg)
+[<img src="./IMG_9086.jpeg]" width="500" />](IMG_9086.jpeg)
+[<img src="./IMG_9087.jpeg" width="500" />](IMG_9087.jpeg)
+[<img src="./IMG_9239.jpeg" width="500" />](IMG_9239.jpeg)
 
 ## End result
 
 Here is my version:
 
-![IMG_9319.jpeg](IMG_9319.jpeg)
-![apoc-led.webp](apoc-led.webp)
+[<img src="./IMG_9319.jpeg" width="500" />](IMG_9319.jpeg)
+[<img src="./apoc-led.webp" width="500" />](apoc-led.webp)
 
 
 ## The parts of the project
@@ -48,15 +62,15 @@ I have a Prusa MK4 3D printer that I am going to use in my work. But the fact is
 
 Here is the evolution of the mask, from left to right:
 
-![IMG_9318.jpeg](IMG_9318.jpeg)
+[<img src="./IMG_9318.jpeg" width="500" />](IMG_9318.jpeg)
 
 And the end result:
 
-![IMG_9319.jpeg](IMG_9319.jpeg)
+[<img src="./IMG_9319.jpeg" width="500" />](IMG_9319.jpeg)
 
 The mask is curved, but the picture doesn't really show it. I inserted elastic bands to keep it on his head.
 
-![apoc.webp](apoc.webp)
+[<img src="./apoc.webp" width="500" />](apoc.webp)
 
 Take about 8-10 hours to 3D print.
 
@@ -82,11 +96,14 @@ Here are the parts:
 
 Used [fritzing] to create the wire diagram(https://fritzing.org/):
 
-![Screenshot 2025-01-14 at 20.01.52.png](Screenshot%202025-01-14%20at%2020.01.52.png)
+[<img src="./Screenshot 2025-01-14 at 20.01.52.png" width="500" />](Screenshot 2025-01-14 at 20.01.52.png)
 
 In reality, it looks like this:
 
-![IMG_9321.jpg](IMG_9321.jpg)
+[<img src="./apoc.webp" width="500" />](apoc.webp)
+
+[<img src="./IMG_9321.jpg" width="500" />](IMG_9321.jpg)
+
 
 ## Programming the microcontroller
 
