@@ -29,7 +29,7 @@ So my son wants a real-life working Apoc mask for when we go to their concert in
 
 Breaking this down it would take us down quite the rabbit hole, ending into something like this:
 
-[<img src="./IMG_9086.jpeg]" width="500" />](IMG_9086.jpeg)
+[<img src="./IMG_9086.jpeg" width="500" />](IMG_9086.jpeg)
 [<img src="./IMG_9087.jpeg" width="500" />](IMG_9087.jpeg)
 [<img src="./IMG_9239.jpeg" width="500" />](IMG_9239.jpeg)
 
