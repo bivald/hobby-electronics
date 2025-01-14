@@ -2,6 +2,9 @@
 My son loves [Smash Into Pieces](https://www.smashintopieces.com/) which is a rock band. He's especially intriqued by the drummer APOC. APOC has a pretty cool mask which lights up in different colors. There is also a [childrens book](https://www.bokus.com/bok/9789189823396/apoc-och-jakten-pa-sjalvfortroendet/) about him.
 So my son wants a real-life working Apoc mask for when we go to their concert in February 2025. It needs to be stable and carry-able.
 
+### Questions?
+Feel free to create an issue if you have any questions, or email me (see my [profile](https://github.com/bivald))
+
 ### Table of Contents
 * [The project](#the-project)
 * [End Result](#end-result)
@@ -30,7 +33,9 @@ So my son wants a real-life working Apoc mask for when we go to their concert in
 Breaking this down it would take us down quite the rabbit hole, ending into something like this:
 
 [<img src="./IMG_9086.jpeg" width="500" />](IMG_9086.jpeg)
+
 [<img src="./IMG_9087.jpeg" width="500" />](IMG_9087.jpeg)
+
 [<img src="./IMG_9239.jpeg" width="500" />](IMG_9239.jpeg)
 
 ## End result
